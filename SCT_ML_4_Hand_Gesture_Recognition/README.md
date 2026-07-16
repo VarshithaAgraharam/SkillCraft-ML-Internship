@@ -45,18 +45,5 @@ The CNN model successfully learned hand gesture patterns and achieved excellent 
 - Sample Prediction
 - Model Performance Report
 
-## Project Structure
-
-SCT_ML_4_Hand_Gesture_Recognition/
-├── SCT_ML_4.ipynb
-├── README.md
-├── requirements.txt
-└── outputs/
-    ├── accuracy_curve.png
-    ├── loss_curve.png
-    ├── confusion_matrix.png
-    ├── sample_prediction.png
-    └── model_performance.png
-
 ## Conclusion
 This project demonstrates the effectiveness of Convolutional Neural Networks (CNNs) for image classification tasks. The model successfully recognized and classified hand gestures across 20 different categories with high accuracy.
