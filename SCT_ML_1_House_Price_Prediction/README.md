@@ -30,10 +30,5 @@ The model was trained using Linear Regression and evaluated using:
 - Residual Distribution Plot
 - Sample Predictions
 
-## Project Structure
-
-SCT_ML_1_House_Price_Prediction/
-├── SCT_ML_1.ipynb
-├── README.md
-├── requirements.txt
-└── outputs/
+## Conclusion
+This project demonstrates the application of Linear Regression for predicting house prices using housing-related features.
