@@ -25,10 +25,5 @@ The dataset was analyzed and customers were grouped into different segments base
 - Customer Segmentation Visualization
 - Cluster Summary
 
-## Project Structure
-
-SCT_ML_2_Customer_Segmentation/
-├── SCT_ML_2.ipynb
-├── README.md
-├── requirements.txt
-└── outputs/
+## Conclusion
+This project demonstrates how K-Means Clustering can be used to identify customer groups and uncover meaningful purchasing patterns.
