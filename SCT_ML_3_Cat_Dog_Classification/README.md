@@ -37,16 +37,5 @@ The model successfully classified cat and dog images using Support Vector Machin
 - Sample Prediction
 - Model Performance Report
 
-## Project Structure
-
-SCT_ML_3_Cat_Dog_Classification/
-├── SCT_ML_3.ipynb
-├── README.md
-├── requirements.txt
-└── outputs/
-    ├── confusion_matrix.png
-    ├── sample_prediction.png
-    └── model_performance.png
-
 ## Conclusion
 This project demonstrates the application of machine learning techniques for image classification. The model was able to identify patterns in image data and classify images into cat and dog categories.
